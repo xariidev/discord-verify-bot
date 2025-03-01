@@ -1,4 +1,12 @@
-## discord-verify-bot
-Simple Bot for Discord with a verify feature for every new member.
-
 # How to set up
+**Dependencies**
+
+***discord.js***
+
+
+`@discordjs/builders`
+
+@discordjs/rest
+
+discord-api-types
+
