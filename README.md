@@ -19,3 +19,11 @@ In `config.json` replace your data with the placeholders
 }
 ```
 
+**/verifychannel**
+
+If you are on your desired channel for the verification system to be on,
+use the `/verifychannel` in order to create the verification embed.
+
+### If you want to customize the text or colours of the embed,
+### feel free to do so in the bot.js file.
+
