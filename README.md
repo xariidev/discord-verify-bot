@@ -1,4 +1,4 @@
-# How to set up
+# How to set up 🌐
 
 1. **Required Dependencies**
 
