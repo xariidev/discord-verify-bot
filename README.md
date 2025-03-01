@@ -1,6 +1,6 @@
 # How to set up
 
-**Required Dependencies**
+1. **Required Dependencies**
 
 `discord.js`,
 `@discordjs/builders`,
@@ -9,7 +9,7 @@
 
 ----------------------------------
 
-**Configuration File**
+2. **Configuration File**
 
 In `config.json` replace your data with the placeholders
 ```
@@ -22,7 +22,7 @@ In `config.json` replace your data with the placeholders
 ```
 ----------------------------------
 
-**/verifychannel**
+3. **/verifychannel**
 
 If you are on your desired channel for the verification system to be on,
 use the `/verifychannel` in order to create the verification embed.
